@@ -1,0 +1,779 @@
+[2025-07-15T16:57:02.101+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-15T16:57:02.102+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-15T16:57:02.103+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-15T16:57:02.104+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T16:57:02.115+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T16:57:54.617+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-15T17:17:23.174+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-15T17:17:23.175+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-15T17:17:23.175+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-15T17:17:23.176+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:17:23.179+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:22:23.823+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:22:23.826+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:27:24.445+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:27:24.449+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:32:25.094+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:32:25.099+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:37:25.739+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:37:25.742+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:42:26.382+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:42:26.385+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:47:27.013+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:47:27.017+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:52:27.648+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:52:27.652+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T17:55:13.399+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-15T17:58:45.837+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-15T17:58:45.837+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-15T17:58:45.838+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-15T17:58:45.839+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T17:58:45.842+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:03:18.318+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-15T18:10:39.867+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-15T18:10:39.867+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-15T18:10:39.868+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-15T18:10:39.868+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:10:39.872+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:15:40.548+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:15:40.553+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:28:19.298+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-15T18:28:19.298+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-15T18:28:19.299+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-15T18:28:19.299+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:28:19.302+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:33:19.984+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:33:19.989+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:38:20.656+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:38:20.661+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:43:21.330+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:43:21.335+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:48:22.014+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:48:22.018+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T18:53:22.674+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T18:53:22.678+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T21:41:38.882+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T21:41:38.886+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T21:46:39.554+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T21:46:39.559+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T21:51:40.203+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-15T21:51:40.207+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-15T21:54:56.137+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-18T12:14:43.431+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-18T12:14:43.434+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-18T12:14:43.434+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-18T12:14:43.435+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-18T12:14:43.842+0000] {manager.py:824} INFO - There are 4 files in /opt/airflow/dags
+[2025-07-18T12:14:44.051+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/datasets_dags.py                                 0           0                                                   0
+/opt/airflow/dags/datasets_dependance.py    207  0.03s             0           0                                                   0
+/opt/airflow/dags/full_pipeline.py                                 0           0                                                   0
+/opt/airflow/dags/xcoms.py                  204  0.13s             0           0                                                   0
+================================================================================
+[2025-07-18T12:15:14.088+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  3.15s           2025-07-18T12:14:47                     119
+/opt/airflow/dags/xcoms.py                                         1           0  0.66s           2025-07-18T12:14:44                      45
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.54s           2025-07-18T12:14:45                      82
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.42s           2025-07-18T12:14:45                      45
+================================================================================
+[2025-07-18T12:15:44.551+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.81s           2025-07-18T12:15:18                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.19s           2025-07-18T12:15:15                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.18s           2025-07-18T12:15:15                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-18T12:15:16                      12
+================================================================================
+[2025-07-18T12:16:15.094+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.16s           2025-07-18T12:15:49                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.18s           2025-07-18T12:15:46                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.18s           2025-07-18T12:15:45                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.17s           2025-07-18T12:15:45                      12
+================================================================================
+[2025-07-18T12:16:45.937+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.30s           2025-07-18T12:16:21                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.29s           2025-07-18T12:16:17                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.17s           2025-07-18T12:16:16                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.15s           2025-07-18T12:16:16                      12
+================================================================================
+[2025-07-18T12:17:16.877+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.19s           2025-07-18T12:16:53                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-18T12:16:47                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.27s           2025-07-18T12:16:47                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.16s           2025-07-18T12:16:48                      12
+================================================================================
+[2025-07-18T12:17:47.559+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.08s           2025-07-18T12:17:25                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-18T12:17:18                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.26s           2025-07-18T12:17:18                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-18T12:17:19                      12
+================================================================================
+[2025-07-18T12:18:17.800+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.69s           2025-07-18T12:17:56                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.19s           2025-07-18T12:17:48                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.16s           2025-07-18T12:17:48                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-18T12:17:49                      12
+================================================================================
+[2025-07-18T12:18:48.233+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.71s           2025-07-18T12:18:28                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.30s           2025-07-18T12:18:19                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.23s           2025-07-18T12:18:19                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.17s           2025-07-18T12:18:20                      12
+================================================================================
+[2025-07-18T12:19:18.338+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.63s           2025-07-18T12:18:59                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.17s           2025-07-18T12:18:49                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.17s           2025-07-18T12:18:50                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.15s           2025-07-18T12:18:49                      12
+================================================================================
+[2025-07-18T12:19:43.439+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-18T12:19:43.476+0000] {manager.py:824} INFO - There are 4 files in /opt/airflow/dags
+[2025-07-18T12:19:48.553+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.74s           2025-07-18T12:19:29                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.20s           2025-07-18T12:19:20                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.17s           2025-07-18T12:19:20                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-18T12:19:21                      12
+================================================================================
+[2025-07-18T12:20:18.883+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.77s           2025-07-18T12:20:01                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.21s           2025-07-18T12:19:50                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.21s           2025-07-18T12:19:50                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.17s           2025-07-18T12:19:51                      12
+================================================================================
+[2025-07-18T12:20:49.027+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.50s           2025-07-18T12:20:33                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.33s           2025-07-18T12:20:22                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.16s           2025-07-18T12:20:20                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-18T12:20:20                      12
+================================================================================
+[2025-07-18T12:21:19.321+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  2.57s           2025-07-18T12:21:06                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.85s           2025-07-18T12:20:53                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.84s           2025-07-18T12:20:51                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.61s           2025-07-18T12:20:51                      12
+================================================================================
+[2025-07-18T12:21:49.664+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.31s           2025-07-18T12:21:37                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.30s           2025-07-18T12:21:21                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.28s           2025-07-18T12:21:24                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-18T12:21:22                      16
+================================================================================
+[2025-07-18T12:22:20.364+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.08s           2025-07-18T12:22:09                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.53s           2025-07-18T12:21:52                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.46s           2025-07-18T12:21:55                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.40s           2025-07-18T12:21:52                      16
+================================================================================
+[2025-07-18T12:22:51.003+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.81s           2025-07-18T12:22:40                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.24s           2025-07-18T12:22:23                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.22s           2025-07-18T12:22:23                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.16s           2025-07-18T12:22:25                      12
+================================================================================
+[2025-07-18T12:23:21.193+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.06s           2025-07-18T12:23:12                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.44s           2025-07-18T12:22:56                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.36s           2025-07-18T12:22:54                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.28s           2025-07-18T12:22:54                      12
+================================================================================
+[2025-07-18T12:23:51.660+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.77s           2025-07-18T12:23:43                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.35s           2025-07-18T12:23:27                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.33s           2025-07-18T12:23:25                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.32s           2025-07-18T12:23:25                      12
+================================================================================
+[2025-07-18T12:24:22.827+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-20T14:21:41.284+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-20T14:21:41.383+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-20T14:21:41.384+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-20T14:21:41.385+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-20T14:21:41.649+0000] {manager.py:824} INFO - There are 4 files in /opt/airflow/dags
+[2025-07-20T14:21:41.844+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/datasets_dags.py                                 0           0                                                   0
+/opt/airflow/dags/datasets_dependance.py    189  0.03s             0           0                                                   0
+/opt/airflow/dags/full_pipeline.py                                 0           0                                                   0
+/opt/airflow/dags/xcoms.py                  186  0.09s             0           0                                                   0
+================================================================================
+[2025-07-20T14:22:12.470+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  1.35s           2025-07-20T14:21:43                      20
+/opt/airflow/dags/xcoms.py                  213  0.02s             1           0  0.22s           2025-07-20T14:21:41                      12
+/opt/airflow/dags/datasets_dags.py          216  0.00s             2           0  0.21s           2025-07-20T14:21:42                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.18s           2025-07-20T14:21:42                      12
+================================================================================
+[2025-07-20T14:22:42.545+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.63s           2025-07-20T14:22:14                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.17s           2025-07-20T14:22:12                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.16s           2025-07-20T14:22:12                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:22:12                      12
+================================================================================
+[2025-07-20T14:22:54.743+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-20T14:49:07.621+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-20T14:49:07.622+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-20T14:49:07.623+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-20T14:49:07.624+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-20T14:49:07.697+0000] {manager.py:824} INFO - There are 5 files in /opt/airflow/dags
+[2025-07-20T14:49:07.879+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/datasets_dags.py                                 0           0                                                   0
+/opt/airflow/dags/datasets_dependance.py                           0           0                                                   0
+/opt/airflow/dags/full_pipeline.py                                 0           0                                                   0
+/opt/airflow/dags/Task_groups.py            179  0.08s             0           0                                                   0
+/opt/airflow/dags/xcoms.py                  182  0.06s             0           0                                                   0
+================================================================================
+[2025-07-20T14:49:38.069+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.73s           2025-07-20T14:49:08                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.29s           2025-07-20T14:49:08                      12
+/opt/airflow/dags/Task_groups.py            212  0.00s             0           1  0.24s           2025-07-20T14:49:08                       3
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.18s           2025-07-20T14:49:08                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-20T14:49:08                      12
+================================================================================
+[2025-07-20T14:50:08.077+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.62s           2025-07-20T14:49:39                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.16s           2025-07-20T14:49:39                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:49:39                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:49:38                      12
+/opt/airflow/dags/Task_groups.py                                   0           1  0.08s           2025-07-20T14:49:38                       5
+================================================================================
+[2025-07-20T14:50:38.529+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.66s           2025-07-20T14:50:10                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.18s           2025-07-20T14:50:10                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T14:50:08                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:50:10                      12
+/opt/airflow/dags/Task_groups.py                                   0           1  0.07s           2025-07-20T14:50:08                       5
+================================================================================
+[2025-07-20T14:51:08.625+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.69s           2025-07-20T14:50:41                      20
+/opt/airflow/dags/Task_groups.py                                   1           0  0.38s           2025-07-20T14:51:05                      45
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.17s           2025-07-20T14:50:41                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.17s           2025-07-20T14:50:40                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:50:39                      12
+================================================================================
+[2025-07-20T14:51:39.318+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.93s           2025-07-20T14:51:13                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.16s           2025-07-20T14:51:09                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T14:51:11                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:51:11                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T14:51:36                      12
+================================================================================
+[2025-07-20T14:52:09.943+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.63s           2025-07-20T14:51:44                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:51:41                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:51:41                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:51:40                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.12s           2025-07-20T14:52:07                      12
+================================================================================
+[2025-07-20T14:52:40.186+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.64s           2025-07-20T14:52:14                      20
+/opt/airflow/dags/Task_groups.py                                   1           0  0.15s           2025-07-20T14:52:37                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:52:12                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:52:11                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:52:12                      12
+================================================================================
+[2025-07-20T14:53:10.816+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.57s           2025-07-20T14:52:45                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T14:52:42                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:53:07                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:52:42                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:52:41                      12
+================================================================================
+[2025-07-20T14:53:41.428+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.61s           2025-07-20T14:53:16                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:53:13                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:53:11                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:53:13                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T14:53:38                      12
+================================================================================
+[2025-07-20T14:54:07.981+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-20T14:54:08.034+0000] {manager.py:824} INFO - There are 5 files in /opt/airflow/dags
+[2025-07-20T14:54:11.638+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.60s           2025-07-20T14:53:47                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.16s           2025-07-20T14:53:43                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-20T14:53:43                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:54:08                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:53:42                      12
+================================================================================
+[2025-07-20T14:54:41.976+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.58s           2025-07-20T14:54:18                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-20T14:54:14                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.28s           2025-07-20T14:54:14                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.26s           2025-07-20T14:54:12                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.15s           2025-07-20T14:54:39                      12
+================================================================================
+[2025-07-20T14:55:12.157+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.68s           2025-07-20T14:54:49                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.16s           2025-07-20T14:54:44                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.15s           2025-07-20T14:55:09                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.15s           2025-07-20T14:54:43                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:54:44                      12
+================================================================================
+[2025-07-20T14:55:42.818+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.57s           2025-07-20T14:55:21                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.18s           2025-07-20T14:55:14                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.17s           2025-07-20T14:55:14                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.15s           2025-07-20T14:55:13                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:55:39                      12
+================================================================================
+[2025-07-20T14:56:13.014+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.74s           2025-07-20T14:55:51                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:55:44                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:55:44                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T14:56:10                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:55:43                      12
+================================================================================
+[2025-07-20T14:56:43.618+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.57s           2025-07-20T14:56:22                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T14:56:15                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T14:56:14                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:56:15                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T14:56:40                      12
+================================================================================
+[2025-07-20T14:57:13.651+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.56s           2025-07-20T14:56:53                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.31s           2025-07-20T14:56:46                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.31s           2025-07-20T14:56:46                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.25s           2025-07-20T14:57:11                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.18s           2025-07-20T14:56:44                      12
+================================================================================
+[2025-07-20T14:57:43.761+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.60s           2025-07-20T14:57:24                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-20T14:57:16                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.25s           2025-07-20T14:57:15                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:57:41                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:57:16                      12
+================================================================================
+[2025-07-20T14:58:14.025+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.63s           2025-07-20T14:57:55                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T14:57:47                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:58:12                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:57:47                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T14:57:45                      12
+================================================================================
+[2025-07-20T14:58:44.348+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.70s           2025-07-20T14:58:27                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.15s           2025-07-20T14:58:16                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T14:58:17                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T14:58:42                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:58:17                      12
+================================================================================
+[2025-07-20T14:59:08.386+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-20T14:59:08.429+0000] {manager.py:824} INFO - There are 5 files in /opt/airflow/dags
+[2025-07-20T14:59:14.504+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.65s           2025-07-20T14:58:58                      20
+/opt/airflow/dags/Task_groups.py                                   1           0  0.26s           2025-07-20T14:59:12                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.16s           2025-07-20T14:58:47                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.14s           2025-07-20T14:58:47                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T14:58:46                      12
+================================================================================
+[2025-07-20T14:59:44.510+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.55s           2025-07-20T14:59:29                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.30s           2025-07-20T14:59:18                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.28s           2025-07-20T14:59:18                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.25s           2025-07-20T14:59:16                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.12s           2025-07-20T14:59:43                      12
+================================================================================
+[2025-07-20T15:00:14.966+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.59s           2025-07-20T15:00:00                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T14:59:48                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T14:59:47                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T15:00:14                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T14:59:48                      12
+================================================================================
+[2025-07-20T15:00:45.247+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.72s           2025-07-20T15:00:31                      20
+/opt/airflow/dags/xcoms.py                                         1           0  0.20s           2025-07-20T15:00:18                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.18s           2025-07-20T15:00:19                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.16s           2025-07-20T15:00:19                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T15:00:44                      12
+================================================================================
+[2025-07-20T15:01:15.830+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.65s           2025-07-20T15:01:02                      20
+/opt/airflow/dags/Task_groups.py                                   1           0  0.37s           2025-07-20T15:01:15                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T15:00:49                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T15:00:49                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T15:00:48                      12
+================================================================================
+[2025-07-20T15:01:46.490+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.58s           2025-07-20T15:01:32                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.31s           2025-07-20T15:01:20                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.31s           2025-07-20T15:01:20                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.27s           2025-07-20T15:01:45                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.27s           2025-07-20T15:01:19                      12
+================================================================================
+[2025-07-20T15:02:17.182+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.57s           2025-07-20T15:02:03                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.34s           2025-07-20T15:01:50                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.32s           2025-07-20T15:01:50                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.27s           2025-07-20T15:01:49                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T15:02:16                      12
+================================================================================
+[2025-07-20T15:02:47.395+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.59s           2025-07-20T15:02:34                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.16s           2025-07-20T15:02:21                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T15:02:20                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.13s           2025-07-20T15:02:46                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T15:02:21                      12
+================================================================================
+[2025-07-20T15:03:17.608+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.68s           2025-07-20T15:03:05                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T15:02:51                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-20T15:02:51                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T15:03:16                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T15:02:50                      12
+================================================================================
+[2025-07-20T15:03:47.893+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.60s           2025-07-20T15:03:36                      20
+/opt/airflow/dags/Task_groups.py                                   1           0  0.27s           2025-07-20T15:03:47                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.20s           2025-07-20T15:03:22                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.18s           2025-07-20T15:03:21                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T15:03:20                      12
+================================================================================
+[2025-07-20T15:04:08.643+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-20T15:04:08.685+0000] {manager.py:824} INFO - There are 5 files in /opt/airflow/dags
+[2025-07-20T15:04:18.092+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.62s           2025-07-20T15:04:08                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-20T15:03:52                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.28s           2025-07-20T15:04:18                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.28s           2025-07-20T15:03:52                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.25s           2025-07-20T15:03:51                      12
+================================================================================
+[2025-07-20T15:04:48.415+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.59s           2025-07-20T15:04:38                      20
+/opt/airflow/dags/Task_groups.py           1178  0.00s             1           0  0.28s           2025-07-20T15:04:18                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.27s           2025-07-20T15:04:23                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.27s           2025-07-20T15:04:23                      16
+/opt/airflow/dags/xcoms.py                                         1           0  0.26s           2025-07-20T15:04:22                      12
+================================================================================
+[2025-07-20T15:05:18.621+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.61s           2025-07-20T15:05:09                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T15:04:53                      16
+/opt/airflow/dags/Task_groups.py           1210  0.00s             1           0  0.14s           2025-07-20T15:04:48                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T15:04:52                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.12s           2025-07-20T15:04:53                      12
+================================================================================
+[2025-07-20T15:05:48.847+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.75s           2025-07-20T15:05:40                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.15s           2025-07-20T15:05:23                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.15s           2025-07-20T15:05:23                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.14s           2025-07-20T15:05:22                      12
+/opt/airflow/dags/Task_groups.py           1242  0.00s             1           0  0.14s           2025-07-20T15:05:18                      12
+================================================================================
+[2025-07-20T15:06:18.895+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.57s           2025-07-20T15:06:11                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.14s           2025-07-20T15:05:54                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.14s           2025-07-20T15:05:48                      12
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.13s           2025-07-20T15:05:54                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.13s           2025-07-20T15:05:53                      12
+================================================================================
+[2025-07-20T15:06:49.320+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.58s           2025-07-20T15:06:42                      20
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.29s           2025-07-20T15:06:25                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.29s           2025-07-20T15:06:23                      12
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.28s           2025-07-20T15:06:25                      16
+/opt/airflow/dags/Task_groups.py                                   1           0  0.26s           2025-07-20T15:06:19                      12
+================================================================================
+[2025-07-20T15:07:19.806+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/datasets_dependance.py                           3           0  0.55s           2025-07-20T15:07:13                      20
+/opt/airflow/dags/datasets_dags.py                                 2           0  0.33s           2025-07-20T15:06:55                      16
+/opt/airflow/dags/full_pipeline.py                                 1           0  0.32s           2025-07-20T15:06:55                      12
+/opt/airflow/dags/Task_groups.py                                   1           0  0.25s           2025-07-20T15:06:50                      12
+/opt/airflow/dags/xcoms.py                                         1           0  0.25s           2025-07-20T15:06:54                      12
+================================================================================
+[2025-07-20T15:07:22.538+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-21T12:42:10.042+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-07-21T12:42:10.053+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-07-21T12:42:10.055+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-21T12:42:10.056+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-07-21T12:42:10.064+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-21T12:42:38.880+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15

@@ -1,0 +1,195 @@
+[2025-07-18T12:14:44.042+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:14:44.043+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:14:44.047+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:44.046+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:14:46.707+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_a', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:14:46.870+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.869+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:dag_b
+[2025-07-18T12:14:46.881+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.880+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:dag_b
+[2025-07-18T12:14:46.888+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.888+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:dag_b
+[2025-07-18T12:14:46.902+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.902+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dag_b
+[2025-07-18T12:14:46.911+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.910+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dag_b
+[2025-07-18T12:14:46.920+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.919+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dag_b
+[2025-07-18T12:14:46.930+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.929+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dag_b
+[2025-07-18T12:14:46.949+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.948+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:dag_a
+[2025-07-18T12:14:46.958+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.957+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:dag_a
+[2025-07-18T12:14:46.967+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.966+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:dag_a
+[2025-07-18T12:14:46.980+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.980+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dag_a
+[2025-07-18T12:14:46.988+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.988+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dag_a
+[2025-07-18T12:14:46.998+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:46.997+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dag_a
+[2025-07-18T12:14:47.006+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.006+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dag_a
+[2025-07-18T12:14:47.024+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.023+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:dag_c
+[2025-07-18T12:14:47.033+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.033+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:dag_c
+[2025-07-18T12:14:47.042+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.042+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:dag_c
+[2025-07-18T12:14:47.056+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.056+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dag_c
+[2025-07-18T12:14:47.065+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.064+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dag_c
+[2025-07-18T12:14:47.074+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.074+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dag_c
+[2025-07-18T12:14:47.083+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.082+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dag_c
+[2025-07-18T12:14:47.084+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.083+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:14:47.098+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.097+0000] {dag.py:3262} INFO - Creating ORM DAG for dag_c
+[2025-07-18T12:14:47.099+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.099+0000] {dag.py:3262} INFO - Creating ORM DAG for dag_a
+[2025-07-18T12:14:47.100+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.100+0000] {dag.py:3262} INFO - Creating ORM DAG for dag_b
+[2025-07-18T12:14:47.111+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.110+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:14:47.111+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.111+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:14:47.112+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:14:47.112+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:14:47.144+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 3.111 seconds
+[2025-07-18T12:15:17.478+0000] {processor.py:186} INFO - Started process (PID=246) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:17.479+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:15:17.482+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:17.482+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:18.135+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_c', 'dag_a' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:18.179+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:18.179+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:15:18.208+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:18.207+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:15:18.214+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:18.214+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:15:18.216+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:18.216+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:15:18.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.776 seconds
+[2025-07-18T12:15:48.843+0000] {processor.py:186} INFO - Started process (PID=273) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:48.844+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:15:48.847+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:48.846+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:49.772+0000] {processor.py:925} INFO - DAG(s) 'dag_c', 'dag_a', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:15:49.831+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:49.830+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:15:49.885+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:49.884+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:15:49.896+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:49.896+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:15:49.900+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:15:49.899+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:15:49.947+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.112 seconds
+[2025-07-18T12:16:20.398+0000] {processor.py:186} INFO - Started process (PID=300) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:20.400+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:16:20.404+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:20.404+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:21.541+0000] {processor.py:925} INFO - DAG(s) 'dag_c', 'dag_a', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:21.576+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:21.576+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:16:21.612+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:21.611+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:16:21.619+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:21.619+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:16:21.622+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:21.621+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:16:21.655+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.264 seconds
+[2025-07-18T12:16:52.356+0000] {processor.py:186} INFO - Started process (PID=327) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:52.357+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:16:52.361+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:52.360+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:53.374+0000] {processor.py:925} INFO - DAG(s) 'dag_c', 'dag_a', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:16:53.423+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:53.422+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:16:53.452+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:53.452+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:16:53.459+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:53.459+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:16:53.462+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:16:53.462+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:16:53.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.154 seconds
+[2025-07-18T12:17:24.311+0000] {processor.py:186} INFO - Started process (PID=354) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:24.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:17:24.316+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:24.316+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:25.207+0000] {processor.py:925} INFO - DAG(s) 'dag_c', 'dag_b', 'dag_a' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:25.252+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:25.251+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:17:25.294+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:25.293+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:17:25.302+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:25.301+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:17:25.305+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:25.305+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:17:25.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.039 seconds
+[2025-07-18T12:17:55.888+0000] {processor.py:186} INFO - Started process (PID=381) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:55.889+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:17:55.892+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:55.892+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:56.434+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_c', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:17:56.465+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:56.465+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:17:56.492+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:56.492+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:17:56.498+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:56.497+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:17:56.501+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:17:56.500+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:17:56.535+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.655 seconds
+[2025-07-18T12:18:27.348+0000] {processor.py:186} INFO - Started process (PID=408) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:27.349+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:18:27.352+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:27.352+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:27.917+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_c', 'dag_a' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:27.953+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:27.952+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:18:27.979+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:27.978+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:18:27.984+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:27.984+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:18:27.986+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:27.986+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:18:28.012+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.671 seconds
+[2025-07-18T12:18:58.562+0000] {processor.py:186} INFO - Started process (PID=435) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:58.563+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:18:58.566+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:58.566+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:59.061+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_b', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:18:59.095+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:59.095+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:18:59.117+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:59.117+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:18:59.121+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:59.121+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:18:59.124+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:18:59.124+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:18:59.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.592 seconds
+[2025-07-18T12:19:29.291+0000] {processor.py:186} INFO - Started process (PID=462) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:19:29.294+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:19:29.298+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:19:29.297+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:19:29.877+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_c', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:19:29.913+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:19:29.912+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:19:29.939+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:19:29.938+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:19:29.946+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:19:29.945+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:19:29.948+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:19:29.948+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:19:29.977+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.696 seconds
+[2025-07-18T12:20:00.597+0000] {processor.py:186} INFO - Started process (PID=489) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:00.599+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:20:00.601+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:00.601+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:01.218+0000] {processor.py:925} INFO - DAG(s) 'dag_c', 'dag_b', 'dag_a' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:01.255+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:01.255+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:20:01.283+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:01.282+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:20:01.288+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:01.287+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:20:01.290+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:01.290+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:20:01.321+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.730 seconds
+[2025-07-18T12:20:31.867+0000] {processor.py:186} INFO - Started process (PID=517) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:31.869+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:20:31.872+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:31.872+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:32.886+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_a', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:20:33.049+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:33.037+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:20:33.260+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:33.259+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:20:33.269+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:33.269+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:20:33.272+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:20:33.272+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:20:33.307+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.450 seconds
+[2025-07-18T12:21:03.999+0000] {processor.py:186} INFO - Started process (PID=549) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:04.044+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:21:04.061+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:04.060+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:06.078+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_c', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:06.195+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:06.194+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:21:06.298+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:06.297+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:21:06.317+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:06.316+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:21:06.321+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:06.321+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:21:06.395+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 2.422 seconds
+[2025-07-18T12:21:36.531+0000] {processor.py:186} INFO - Started process (PID=576) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:36.638+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:21:36.646+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:36.645+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:37.644+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_c', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:21:37.694+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:37.693+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:21:37.729+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:37.729+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:21:37.737+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:37.736+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:21:37.740+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:21:37.740+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:21:37.767+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.257 seconds
+[2025-07-18T12:22:08.268+0000] {processor.py:186} INFO - Started process (PID=603) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:08.299+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:22:08.310+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:08.309+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:09.109+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_a', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:09.160+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:09.159+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:22:09.208+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:09.208+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:22:09.218+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:09.217+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:22:09.221+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:09.221+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:22:09.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.018 seconds
+[2025-07-18T12:22:39.997+0000] {processor.py:186} INFO - Started process (PID=630) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:39.999+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:22:40.002+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:40.002+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:40.659+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_a', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:22:40.697+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:40.697+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:22:40.726+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:40.726+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:22:40.732+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:40.732+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:22:40.734+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:22:40.734+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:22:40.768+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.778 seconds
+[2025-07-18T12:23:11.146+0000] {processor.py:186} INFO - Started process (PID=657) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:11.149+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:23:11.157+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:11.154+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:12.001+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_b', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:12.042+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:12.041+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:23:12.075+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:12.074+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:23:12.086+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:12.086+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:23:12.089+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:12.089+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:23:12.125+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 1.002 seconds
+[2025-07-18T12:23:42.796+0000] {processor.py:186} INFO - Started process (PID=684) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:42.797+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:23:42.800+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:42.799+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:43.423+0000] {processor.py:925} INFO - DAG(s) 'dag_a', 'dag_c', 'dag_b' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:23:43.464+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:43.463+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:23:43.493+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:43.493+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:23:43.499+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:43.498+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:23:43.501+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:23:43.501+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:23:43.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.741 seconds
+[2025-07-18T12:24:14.172+0000] {processor.py:186} INFO - Started process (PID=711) to work on /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:24:14.174+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets_dependance.py for tasks to queue
+[2025-07-18T12:24:14.177+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:24:14.177+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:24:14.692+0000] {processor.py:925} INFO - DAG(s) 'dag_b', 'dag_a', 'dag_c' retrieved from /opt/airflow/dags/datasets_dependance.py
+[2025-07-18T12:24:14.723+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:24:14.722+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-07-18T12:24:14.745+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:24:14.744+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_a to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T12:24:14.749+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:24:14.749+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_b to None, run_after=None
+[2025-07-18T12:24:14.752+0000] {logging_mixin.py:190} INFO - [2025-07-18T12:24:14.751+0000] {dag.py:4180} INFO - Setting next_dagrun for dag_c to None, run_after=None
+[2025-07-18T12:24:14.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets_dependance.py took 0.617 seconds
